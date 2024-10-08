@@ -1,3 +1,5 @@
+//Accept the parameters and calculate the Compound Interest & print it on STDOUT (Using Math class methods)
+
 package BeginnerLevelQuestions;
 
 import java.util.Scanner;

@@ -1,3 +1,5 @@
+//Accept the User's name, age and print
+
 package BasicQuestions;
 
 import java.util.Scanner;

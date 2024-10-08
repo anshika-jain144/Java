@@ -1,3 +1,6 @@
+//Accept two integers from user and print the messege along with values and sum
+
+
 package BasicQuestions;
 
 import java.util.Scanner;

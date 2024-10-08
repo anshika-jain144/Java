@@ -1,3 +1,5 @@
+//Accept the length and width of a rectangle. Calculate & print the area and perameter.
+
 package BeginnerLevelQuestions;
 
 import java.util.Scanner;
